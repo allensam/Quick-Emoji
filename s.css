@@ -1,0 +1,8 @@
+@font-face {
+  font-family: apple;
+  src: url(apple.ttf);
+}
+
+html, body {
+  font-family: apple;
+}
